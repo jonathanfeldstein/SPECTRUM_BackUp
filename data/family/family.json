@@ -1,0 +1,26 @@
+{
+    "logic": "psl",
+    "info_file": "/path/to/family.info",
+    "data_folder": "/path/to/family/",
+    "data_files": [
+        "family"
+    ],
+    "targets": [
+        "father",
+        "wife",
+        "husband",
+        "son",
+        "uncle",
+        "nephew",
+        "niece",
+        "mother",
+        "aunt",
+        "daughter",
+        "brother",
+        "sister"
+    ],
+    "output_folder": "/path/to/output/family/",
+    "debug": false,
+    "verbose": true,
+    "force_cyclic": false
+}

@@ -1,0 +1,160 @@
+2.12 (2.12)	aunt <-- inv_sister, inv_aunt
+1.91 (1.91)	aunt <-- nephew, inv_sister
+1.86 (1.86)	aunt <-- brother, inv_aunt
+1.43 (1.43)	aunt <-- niece, sister
+1.28 (1.28)	aunt <-- nephew
+1.12 (1.12)	aunt <-- son, inv_sister
+1.04 (1.04)	aunt <-- niece
+0.99 (0.99)	aunt <-- inv_uncle, inv_sister
+0.97 (0.97)	aunt <-- nephew, brother
+0.84 (0.84)	aunt <-- brother, niece
+0.53 (0.53)	aunt <-- inv_uncle, brother
+0.47 (0.47)	aunt <-- daughter, inv_sister
+0.45 (0.45)	aunt <-- inv_mother, inv_sister
+0.45 (0.45)	aunt <-- inv_father, inv_sister
+0.36 (0.36)	aunt <-- inv_father, brother
+0.35 (0.35)	aunt <-- son, brother
+3.81 (3.81)	father <-- inv_sister, inv_father
+2.60 (2.60)	father <-- daughter
+2.25 (2.25)	father <-- inv_mother, wife
+2.10 (2.10)	father <-- brother, inv_father
+2.10 (2.10)	father <-- son
+1.66 (1.66)	father <-- brother, son
+1.63 (1.63)	father <-- inv_mother, inv_husband
+1.41 (1.41)	father <-- inv_sister, daughter
+1.03 (1.03)	father <-- sister, son
+0.91 (0.91)	father <-- brother, daughter
+0.43 (0.43)	father <-- inv_uncle, inv_brother
+0.35 (0.35)	father <-- nephew, inv_brother
+0.33 (0.33)	father <-- niece, brother
+0.27 (0.27)	father <-- inv_aunt, inv_brother
+0.21 (0.21)	father <-- nephew, sister
+0.12 (0.12)	father <-- inv_aunt, sister
+2.37 (2.37)	niece <-- inv_niece, inv_sister
+2.14 (2.14)	niece <-- uncle, inv_sister
+1.68 (1.68)	niece <-- inv_brother, inv_niece
+1.36 (1.36)	niece <-- sister, aunt
+1.19 (1.19)	niece <-- uncle
+1.04 (1.04)	niece <-- aunt
+0.98 (0.98)	niece <-- inv_brother, inv_daughter
+0.98 (0.98)	niece <-- sister, inv_daughter
+0.89 (0.89)	niece <-- aunt, brother
+0.89 (0.89)	niece <-- inv_nephew, inv_sister
+0.87 (0.87)	niece <-- inv_brother, uncle
+0.47 (0.47)	niece <-- brother, father
+0.44 (0.44)	niece <-- inv_nephew, brother
+3.45 (3.45)	daughter <-- inv_son, inv_sister
+2.76 (2.76)	daughter <-- father, inv_sister
+2.60 (2.60)	daughter <-- father
+2.35 (2.35)	daughter <-- inv_daughter, sister
+1.88 (1.88)	daughter <-- mother, inv_sister
+1.81 (1.81)	daughter <-- mother
+1.08 (1.08)	daughter <-- inv_son, brother
+0.59 (0.59)	daughter <-- father, brother
+0.52 (0.52)	daughter <-- inv_sister, inv_niece
+0.45 (0.45)	daughter <-- brother, inv_niece
+0.34 (0.34)	daughter <-- inv_brother, uncle
+0.24 (0.24)	daughter <-- inv_sister, aunt
+4.47 (4.47)	sister <-- sister, inv_sister
+2.40 (2.40)	sister <-- daughter, inv_daughter
+2.38 (2.38)	sister <-- sister, brother
+2.13 (2.13)	sister <-- inv_mother, mother
+2.03 (2.03)	sister <-- inv_father, father
+1.86 (1.86)	sister <-- niece, inv_niece
+1.84 (1.84)	sister <-- son, inv_daughter
+1.76 (1.76)	sister <-- inv_father, inv_daughter
+1.71 (1.71)	sister <-- inv_aunt, aunt
+1.61 (1.61)	sister <-- inv_brother, brother
+1.41 (1.41)	sister <-- inv_nephew, inv_aunt
+1.40 (1.40)	sister <-- inv_uncle, inv_niece
+1.40 (1.40)	sister <-- brother
+1.36 (1.36)	sister <-- sister
+1.34 (1.34)	sister <-- inv_mother, inv_daughter
+1.23 (1.23)	sister <-- aunt, niece
+0.96 (0.96)	sister <-- uncle, inv_aunt
+0.94 (0.94)	sister <-- inv_daughter, niece
+0.93 (0.93)	sister <-- inv_son, inv_aunt
+0.71 (0.71)	sister <-- son, mother
+1.61 (1.61)	uncle <-- inv_uncle, inv_brother
+1.44 (1.44)	uncle <-- inv_sister, inv_uncle
+1.36 (1.36)	uncle <-- inv_brother, nephew
+1.34 (1.34)	uncle <-- niece, inv_brother
+1.27 (1.27)	uncle <-- nephew
+1.19 (1.19)	uncle <-- niece
+1.13 (1.13)	uncle <-- daughter, inv_brother
+1.10 (1.10)	uncle <-- inv_sister, niece
+0.93 (0.93)	uncle <-- inv_father, brother
+0.87 (0.87)	uncle <-- inv_aunt, inv_brother
+0.80 (0.80)	uncle <-- nephew, sister
+0.53 (0.53)	uncle <-- son, brother
+0.51 (0.51)	uncle <-- inv_mother, inv_brother
+0.48 (0.48)	uncle <-- inv_aunt, sister
+0.42 (0.42)	uncle <-- inv_mother, sister
+7.60 (7.60)	wife <-- husband
+2.72 (2.72)	wife <-- father, inv_mother
+1.61 (1.61)	nephew <-- inv_brother, inv_nephew
+1.53 (1.53)	nephew <-- sister, inv_son
+1.45 (1.45)	nephew <-- brother, aunt
+1.28 (1.28)	nephew <-- aunt
+1.27 (1.27)	nephew <-- uncle
+1.24 (1.24)	nephew <-- uncle, inv_brother
+1.17 (1.17)	nephew <-- inv_sister, inv_nephew
+0.96 (0.96)	nephew <-- inv_sister, aunt
+0.85 (0.85)	nephew <-- inv_brother, inv_son
+0.82 (0.82)	nephew <-- sister, uncle
+0.70 (0.70)	nephew <-- inv_brother, father
+0.62 (0.62)	nephew <-- inv_niece, inv_brother
+0.50 (0.50)	nephew <-- inv_sister, mother
+0.47 (0.47)	nephew <-- inv_niece, sister
+0.41 (0.41)	nephew <-- sister, father
+2.30 (2.30)	son <-- mother
+2.25 (2.25)	son <-- husband, inv_son
+2.19 (2.19)	son <-- inv_son, brother
+2.10 (2.10)	son <-- father
+1.97 (1.97)	son <-- mother, brother
+1.71 (1.71)	son <-- father, brother
+1.71 (1.71)	son <-- inv_daughter, inv_brother
+1.20 (1.20)	son <-- inv_daughter, sister
+0.70 (0.70)	son <-- father, sister
+0.64 (0.64)	son <-- mother, sister
+0.54 (0.54)	son <-- inv_sister, inv_nephew
+0.44 (0.44)	son <-- brother, inv_nephew
+0.27 (0.27)	son <-- brother, aunt
+0.25 (0.25)	son <-- brother, uncle
+0.20 (0.20)	son <-- inv_sister, aunt
+3.65 (3.65)	brother <-- inv_brother, brother
+2.33 (2.33)	brother <-- son, inv_son
+2.28 (2.28)	brother <-- inv_mother, mother
+2.27 (2.27)	brother <-- inv_sister, inv_brother
+1.80 (1.80)	brother <-- son, mother
+1.71 (1.71)	brother <-- inv_father, father
+1.61 (1.61)	brother <-- son, father
+1.40 (1.40)	brother <-- sister
+1.35 (1.35)	brother <-- sister, sister
+1.33 (1.33)	brother <-- daughter, inv_son
+1.32 (1.32)	brother <-- brother
+1.31 (1.31)	brother <-- inv_nephew, nephew
+1.22 (1.22)	brother <-- uncle, inv_uncle
+1.12 (1.12)	brother <-- aunt, nephew
+1.10 (1.10)	brother <-- inv_daughter, inv_uncle
+1.08 (1.08)	brother <-- inv_uncle, inv_nephew
+1.01 (1.01)	brother <-- inv_niece, inv_uncle
+0.92 (0.92)	brother <-- aunt, inv_uncle
+0.85 (0.85)	brother <-- uncle, inv_father
+0.79 (0.79)	brother <-- inv_aunt, aunt
+7.60 (7.60)	husband <-- wife
+1.92 (1.92)	husband <-- mother, inv_father
+1.87 (1.87)	husband <-- inv_son, son
+3.79 (3.79)	mother <-- brother, inv_mother
+2.93 (2.93)	mother <-- inv_sister, inv_mother
+2.39 (2.39)	mother <-- inv_father, inv_wife
+2.30 (2.30)	mother <-- son
+1.81 (1.81)	mother <-- daughter
+1.66 (1.66)	mother <-- inv_father, husband
+1.45 (1.45)	mother <-- brother, son
+1.34 (1.34)	mother <-- inv_sister, daughter
+1.32 (1.32)	mother <-- sister, son
+0.36 (0.36)	mother <-- nephew, inv_sister
+0.32 (0.32)	mother <-- inv_uncle, inv_sister
+0.18 (0.18)	mother <-- inv_uncle, brother
+0.16 (0.16)	mother <-- inv_aunt, sister

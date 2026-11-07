@@ -1,0 +1,154 @@
+nohup: ignoring input
+Found 0 completed experiments. Remaining: 50
+[22:00:26] v1_1_pattern_mining | family | eps=0.5 | M=240
+  -> fragments=409 constrained=39 rules=98 time=147325us
+[22:00:26] v3_random_walks | family | eps=0.5 | M=240
+  -> fragments=302 constrained=0 rules=0 time=83086us
+  [2/50 experiments total complete]
+
+[22:00:26] v1_1_pattern_mining | umls | eps=0.5 | M=820
+  -> fragments=2938 constrained=38 rules=88 time=190061us
+[22:00:27] v3_random_walks | umls | eps=0.5 | M=820
+  -> fragments=1072 constrained=0 rules=0 time=107397us
+  [4/50 experiments total complete]
+
+[22:00:27] v1_1_pattern_mining | kinship | eps=0.5 | M=480
+  -> fragments=2271 constrained=79 rules=213 time=156046us
+[22:00:27] v3_random_walks | kinship | eps=0.5 | M=480
+  -> fragments=739 constrained=0 rules=0 time=68963us
+  [6/50 experiments total complete]
+
+[22:00:27] v1_1_pattern_mining | imdb | eps=0.5 | M=200
+  -> fragments=187 constrained=35 rules=88 time=289985us
+[22:00:27] v3_random_walks | imdb | eps=0.5 | M=200
+  -> fragments=97 constrained=14 rules=25 time=69234us
+  [8/50 experiments total complete]
+
+[22:00:27] v1_1_pattern_mining | webkb | eps=0.5 | M=120
+  -> fragments=85 constrained=16 rules=37 time=117561us
+[22:00:27] v3_random_walks | webkb | eps=0.5 | M=120
+  -> fragments=39 constrained=5 rules=7 time=43705us
+  [10/50 experiments total complete]
+
+[22:00:27] v1_1_pattern_mining | family | eps=0.1 | M=240
+  -> fragments=427 constrained=57 rules=151 time=510415us
+[22:00:28] v3_random_walks | family | eps=0.1 | M=240
+  -> fragments=405 constrained=38 rules=95 time=570524us
+  [12/50 experiments total complete]
+
+[22:00:28] v1_1_pattern_mining | umls | eps=0.1 | M=820
+  -> fragments=4401 constrained=208 rules=537 time=594210us
+[22:00:29] v3_random_walks | umls | eps=0.1 | M=820
+  -> fragments=3158 constrained=48 rules=114 time=2587071us
+  [14/50 experiments total complete]
+
+[22:00:32] v1_1_pattern_mining | kinship | eps=0.1 | M=480
+  -> fragments=3295 constrained=359 rules=983 time=1493974us
+[22:00:33] v3_random_walks | kinship | eps=0.1 | M=480
+  -> fragments=2273 constrained=79 rules=213 time=1407831us
+  [16/50 experiments total complete]
+
+[22:00:35] v1_1_pattern_mining | imdb | eps=0.1 | M=200
+  -> fragments=190 constrained=40 rules=101 time=1501440us
+[22:00:36] v3_random_walks | imdb | eps=0.1 | M=200
+  -> fragments=111 constrained=18 rules=37 time=970826us
+  [18/50 experiments total complete]
+
+[22:00:37] v1_1_pattern_mining | webkb | eps=0.1 | M=120
+  -> fragments=85 constrained=16 rules=37 time=373198us
+[22:00:38] v3_random_walks | webkb | eps=0.1 | M=120
+  -> fragments=39 constrained=6 rules=8 time=189650us
+  [20/50 experiments total complete]
+
+[22:00:38] v1_1_pattern_mining | family | eps=0.05 | M=240
+  -> fragments=435 constrained=61 rules=162 time=501123us
+[22:00:38] v3_random_walks | family | eps=0.05 | M=240
+  -> fragments=420 constrained=52 rules=135 time=2408090us
+  [22/50 experiments total complete]
+
+[22:00:41] v1_1_pattern_mining | umls | eps=0.05 | M=820
+  -> fragments=4425 constrained=249 rules=652 time=689587us
+[22:00:41] v3_random_walks | umls | eps=0.05 | M=820
+  -> fragments=3952 constrained=119 rules=299 time=10738244us
+  [24/50 experiments total complete]
+
+[22:00:52] v1_1_pattern_mining | kinship | eps=0.05 | M=480
+  -> fragments=3295 constrained=359 rules=983 time=1625891us
+[22:00:54] v3_random_walks | kinship | eps=0.05 | M=480
+  -> fragments=2866 constrained=235 rules=646 time=6150203us
+  [26/50 experiments total complete]
+
+[22:01:00] v1_1_pattern_mining | imdb | eps=0.05 | M=200
+  -> fragments=190 constrained=40 rules=100 time=3101836us
+[22:01:03] v3_random_walks | imdb | eps=0.05 | M=200
+  -> fragments=114 constrained=21 rules=43 time=3456892us
+  [28/50 experiments total complete]
+
+[22:01:07] v1_1_pattern_mining | webkb | eps=0.05 | M=120
+  -> fragments=85 constrained=16 rules=37 time=563710us
+[22:01:07] v3_random_walks | webkb | eps=0.05 | M=120
+  -> fragments=39 constrained=6 rules=8 time=540120us
+  [30/50 experiments total complete]
+
+[22:01:08] v1_1_pattern_mining | family | eps=0.01 | M=240
+  -> fragments=435 constrained=61 rules=162 time=411580us
+[22:01:08] v3_random_walks | family | eps=0.01 | M=240
+  -> fragments=435 constrained=61 rules=162 time=56248075us
+  [32/50 experiments total complete]
+
+[22:02:05] v1_1_pattern_mining | umls | eps=0.01 | M=820
+  -> fragments=4425 constrained=249 rules=652 time=3115851us
+[22:02:08] v3_random_walks | umls | eps=0.01 | M=820
+  -> fragments=4425 constrained=248 rules=650 time=285810222us
+  [34/50 experiments total complete]
+
+[22:06:54] v1_1_pattern_mining | kinship | eps=0.01 | M=480
+  -> fragments=3295 constrained=359 rules=983 time=2920085us
+[22:06:57] v3_random_walks | kinship | eps=0.01 | M=480
+  -> fragments=3295 constrained=359 rules=983 time=157670211us
+  [36/50 experiments total complete]
+
+[22:09:36] v1_1_pattern_mining | imdb | eps=0.01 | M=200
+  -> fragments=190 constrained=41 rules=102 time=4549049us
+[22:09:40] v3_random_walks | imdb | eps=0.01 | M=200
+  -> fragments=114 constrained=22 rules=46 time=76833089us
+  [38/50 experiments total complete]
+
+[22:10:57] v1_1_pattern_mining | webkb | eps=0.01 | M=120
+  -> fragments=85 constrained=16 rules=37 time=402844us
+[22:10:58] v3_random_walks | webkb | eps=0.01 | M=120
+  -> fragments=39 constrained=6 rules=8 time=13416922us
+  [40/50 experiments total complete]
+
+[22:11:11] v1_1_pattern_mining | family | eps=0.005 | M=240
+  -> fragments=435 constrained=61 rules=162 time=966603us
+[22:11:12] v3_random_walks | family | eps=0.005 | M=240
+  -> fragments=435 constrained=61 rules=162 time=224466066us
+  [42/50 experiments total complete]
+
+[22:14:58] v1_1_pattern_mining | umls | eps=0.005 | M=820
+  -> fragments=4425 constrained=249 rules=652 time=11220587us
+[22:15:09] v3_random_walks | umls | eps=0.005 | M=820
+  -> fragments=4425 constrained=249 rules=652 time=1060962156us
+  [44/50 experiments total complete]
+
+[22:32:52] v1_1_pattern_mining | kinship | eps=0.005 | M=480
+  -> fragments=3295 constrained=359 rules=983 time=9948915us
+[22:33:02] v3_random_walks | kinship | eps=0.005 | M=480
+  -> fragments=3295 constrained=359 rules=983 time=643068873us
+  [46/50 experiments total complete]
+
+[22:43:47] v1_1_pattern_mining | imdb | eps=0.005 | M=200
+  -> fragments=190 constrained=41 rules=102 time=6766148us
+[22:43:54] v3_random_walks | imdb | eps=0.005 | M=200
+  -> fragments=116 constrained=22 rules=46 time=318487006us
+  [48/50 experiments total complete]
+
+[22:49:14] v1_1_pattern_mining | webkb | eps=0.005 | M=120
+  -> fragments=85 constrained=16 rules=37 time=688965us
+[22:49:15] v3_random_walks | webkb | eps=0.005 | M=120
+  -> fragments=39 constrained=6 rules=8 time=54614399us
+  [50/50 experiments total complete]
+
+
+All intended experiments completed!

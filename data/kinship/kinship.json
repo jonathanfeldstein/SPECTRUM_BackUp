@@ -1,0 +1,38 @@
+{
+    "logic": "psl",
+    "info_file": "/path/to/kinship.info",
+    "data_folder": "/path/to/kinship/",
+    "data_files": [
+        "kinship"
+    ],
+    "targets": [
+        "term9",
+        "term18",
+        "term6",
+        "term7",
+        "term13",
+        "term5",
+        "term3",
+        "term2",
+        "term10",
+        "term8",
+        "term21",
+        "term22",
+        "term11",
+        "term14",
+        "term16",
+        "term20",
+        "term15",
+        "term0",
+        "term25",
+        "term12",
+        "term19",
+        "term1",
+        "term4",
+        "term17"
+    ],
+    "output_folder": "/path/to/output/kinship/",
+    "debug": false,
+    "verbose": true,
+    "force_cyclic": false
+}

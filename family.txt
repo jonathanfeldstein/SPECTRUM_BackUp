@@ -1,0 +1,99 @@
+2.120 (2.120)	aunt <-- sister, aunt
+1.910 (1.910)	aunt <-- inv_nephew, sister
+1.860 (1.860)	aunt <-- inv_brother, aunt
+1.430 (1.430)	aunt <-- inv_niece, inv_sister
+1.280 (1.280)	aunt <-- nephew
+1.120 (1.120)	aunt <-- inv_son, sister
+1.040 (1.040)	aunt <-- niece
+3.810 (3.810)	father <-- sister, father
+2.600 (2.600)	father <-- daughter
+2.250 (2.250)	father <-- mother, inv_wife
+2.100 (2.100)	father <-- inv_brother, father
+2.100 (2.100)	father <-- son
+1.660 (1.660)	father <-- inv_brother, inv_son
+1.630 (1.630)	father <-- mother, husband
+1.410 (1.410)	father <-- sister, inv_daughter
+1.030 (1.030)	father <-- inv_sister, inv_son
+2.370 (2.370)	niece <-- niece, sister
+2.140 (2.140)	niece <-- inv_uncle, sister
+1.680 (1.680)	niece <-- brother, niece
+1.360 (1.360)	niece <-- inv_sister, inv_aunt
+1.190 (1.190)	niece <-- uncle
+1.040 (1.040)	niece <-- aunt
+3.450 (3.450)	daughter <-- son, sister
+2.760 (2.760)	daughter <-- inv_father, sister
+2.600 (2.600)	daughter <-- father
+2.350 (2.350)	daughter <-- daughter, inv_sister
+1.880 (1.880)	daughter <-- inv_mother, sister
+1.810 (1.810)	daughter <-- mother
+1.080 (1.080)	daughter <-- son, inv_brother
+4.470 (4.470)	sister <-- inv_sister, sister
+2.400 (2.400)	sister <-- inv_daughter, daughter
+2.380 (2.380)	sister <-- inv_sister, inv_brother
+2.130 (2.130)	sister <-- mother, inv_mother
+2.030 (2.030)	sister <-- father, inv_father
+1.860 (1.860)	sister <-- inv_niece, niece
+1.840 (1.840)	sister <-- inv_son, daughter
+1.760 (1.760)	sister <-- father, daughter
+1.710 (1.710)	sister <-- aunt, inv_aunt
+1.610 (1.610)	sister <-- brother, inv_brother
+1.410 (1.410)	sister <-- nephew, aunt
+1.400 (1.400)	sister <-- uncle, niece
+1.400 (1.400)	sister <-- brother
+1.360 (1.360)	sister <-- sister
+1.340 (1.340)	sister <-- mother, daughter
+1.230 (1.230)	sister <-- inv_aunt, inv_niece
+1.610 (1.610)	uncle <-- uncle, brother
+1.440 (1.440)	uncle <-- sister, uncle
+1.360 (1.360)	uncle <-- brother, inv_nephew
+1.340 (1.340)	uncle <-- inv_niece, brother
+1.270 (1.270)	uncle <-- nephew
+1.190 (1.190)	uncle <-- niece
+1.130 (1.130)	uncle <-- inv_daughter, brother
+1.100 (1.100)	uncle <-- sister, inv_niece
+7.600 (7.600)	wife <-- husband
+2.720 (2.720)	wife <-- inv_father, mother
+1.610 (1.610)	nephew <-- brother, nephew
+1.530 (1.530)	nephew <-- inv_sister, son
+1.450 (1.450)	nephew <-- inv_brother, inv_aunt
+1.280 (1.280)	nephew <-- aunt
+1.270 (1.270)	nephew <-- uncle
+1.240 (1.240)	nephew <-- inv_uncle, brother
+1.170 (1.170)	nephew <-- sister, nephew
+2.300 (2.300)	son <-- mother
+2.250 (2.250)	son <-- inv_husband, son
+2.190 (2.190)	son <-- son, inv_brother
+2.100 (2.100)	son <-- father
+1.970 (1.970)	son <-- inv_mother, inv_brother
+1.710 (1.710)	son <-- inv_father, inv_brother
+1.710 (1.710)	son <-- daughter, brother
+1.200 (1.200)	son <-- daughter, inv_sister
+3.650 (3.650)	brother <-- brother, inv_brother
+2.330 (2.330)	brother <-- inv_son, son
+2.280 (2.280)	brother <-- mother, inv_mother
+2.270 (2.270)	brother <-- sister, brother
+1.800 (1.800)	brother <-- inv_son, inv_mother
+1.710 (1.710)	brother <-- father, inv_father
+1.610 (1.610)	brother <-- inv_son, inv_father
+1.400 (1.400)	brother <-- sister
+1.350 (1.350)	brother <-- inv_sister, inv_sister
+1.330 (1.330)	brother <-- inv_daughter, son
+1.320 (1.320)	brother <-- brother
+1.310 (1.310)	brother <-- nephew, inv_nephew
+1.220 (1.220)	brother <-- inv_uncle, uncle
+1.120 (1.120)	brother <-- inv_aunt, inv_nephew
+1.100 (1.100)	brother <-- daughter, uncle
+1.080 (1.080)	brother <-- uncle, nephew
+1.010 (1.010)	brother <-- niece, uncle
+7.600 (7.600)	husband <-- wife
+1.920 (1.920)	husband <-- inv_mother, father
+1.870 (1.870)	husband <-- son, inv_son
+3.790 (3.790)	mother <-- inv_brother, mother
+2.930 (2.930)	mother <-- sister, mother
+2.390 (2.390)	mother <-- father, wife
+2.300 (2.300)	mother <-- son
+1.810 (1.810)	mother <-- daughter
+1.660 (1.660)	mother <-- father, inv_husband
+1.450 (1.450)	mother <-- inv_brother, inv_son
+1.340 (1.340)	mother <-- sister, inv_daughter
+1.320 (1.320)	mother <-- inv_sister, inv_son

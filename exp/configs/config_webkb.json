@@ -1,0 +1,20 @@
+{
+    "logic": "dense",
+    "data_folder": "data/webkb/",
+    "info_file": "data/webkb/webkb.info",
+    "data_files": [
+        "webkb_combined"
+    ],
+    "targets": [
+        "courseprof",
+        "sameperson",
+        "project",
+        "faculty",
+        "courseta",
+        "student"
+    ],
+    "output_folder": "./out/",
+    "debug": false,
+    "verbose": true,
+    "force_cyclic": true
+}

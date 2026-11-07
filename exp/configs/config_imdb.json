@@ -1,0 +1,24 @@
+{
+    "logic": "dense",
+    "data_folder": "data/imdb/",
+    "info_file": "data/imdb/imdb.info",
+    "data_files": [
+        "imdb_combined"
+    ],
+    "targets": [
+        "genre",
+        "movie",
+        "actor",
+        "sameGender",
+        "samePerson",
+        "workedUnder",
+        "gender",
+        "sameMovie",
+        "sameGenre",
+        "director"
+    ],
+    "output_folder": "./out/",
+    "debug": false,
+    "verbose": true,
+    "force_cyclic": true
+}

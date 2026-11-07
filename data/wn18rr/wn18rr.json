@@ -1,0 +1,25 @@
+{
+    "logic": "psl",
+    "info_file": "SPECTRUM_datasets/wn18rr/wn18rr.info",
+    "data_folder": "SPECTRUM_datasets/wn18rr/",
+    "data_files": [
+        "wn18rr_train"
+    ],
+    "targets": [
+        "_similar_to",
+        "_synset_domain_topic_of",
+        "_also_see",
+        "_member_of_domain_usage",
+        "_hypernym",
+        "_derivationally_related_form",
+        "_member_of_domain_region",
+        "_verb_group",
+        "_has_part",
+        "_member_meronym",
+        "_instance_hypernym"
+    ],
+    "output_folder": "rules/wn18rr/",
+    "debug": false,
+    "verbose": false,
+    "force_cyclic": false
+}

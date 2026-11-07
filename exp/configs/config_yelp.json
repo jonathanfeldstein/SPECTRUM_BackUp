@@ -1,0 +1,19 @@
+{
+    "logic": "dense",
+    "data_folder": "data/yelp/",
+    "info_file": "yelp.info",
+    "data_files": [
+        "yelp_combined"
+    ],
+    "targets": [
+        "friends",
+        "highRating",
+        "similarItems",
+        "lowRating",
+        "similarUsers"
+    ],
+    "output_folder": "./out/",
+    "debug": false,
+    "verbose": true,
+    "force_cyclic": true
+}
